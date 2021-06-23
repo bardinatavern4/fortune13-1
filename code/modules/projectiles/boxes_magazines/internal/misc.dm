@@ -19,5 +19,5 @@
 /obj/item/ammo_box/magazine/internal/m2flamethrower
 	name = "m2 flamethower fuel tank"
 	ammo_type = /obj/item/ammo_casing/caseless/flamethrower
-	caliber = "flamethrower"
+	caliber = "fuel"
 	max_ammo = 12 //6 bursts, about what it was IRL
