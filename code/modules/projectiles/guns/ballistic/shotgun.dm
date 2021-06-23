@@ -15,6 +15,7 @@
 	slot_flags = ITEM_SLOT_BACK
 	force = 15
 	flags_1 =  CONDUCT_1
+	untinkerable = TRUE //no tinkering shotguns, bad.
 	mag_type = /obj/item/ammo_box/magazine/internal/shot
 	casing_ejector = FALSE
 	var/recentpump = 0 // to prevent spammage
